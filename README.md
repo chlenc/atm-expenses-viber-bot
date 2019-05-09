@@ -1,4 +1,4 @@
-# atm-expenses-vk-bot
+# atm-expenses-viber-bot
 
 This is a chat bot auto-bucket for business development courses from an ATM group. He leads a person according to an algorithm and sends information once a day.
 
