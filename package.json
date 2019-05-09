@@ -1,0 +1,21 @@
+{
+  "name": "expendens-vb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "firebase": "^5.5.9",
+    "formidable": "^1.2.1",
+    "nodemon": "^1.18.6",
+    "utf8": "^3.0.0",
+    "util": "^0.11.1",
+    "viber-bot": "^1.0.13"
+  }
+}
